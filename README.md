@@ -1,4 +1,4 @@
-# News Web Similary (Corpus-Based Document Similarity Engine)
+# News Web Similarity
 
 This project is a Python-based system designed to scrape news articles from various web sources, process the text data, and build a searchable inverted index based on TF-IDF (Term Frequency-Inverse Document Frequency) weighting. The engine can then be queried to find articles that are semantically similar to a given set of terms.
 
